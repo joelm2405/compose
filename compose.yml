@@ -9,5 +9,5 @@
        - 8080:80
    webplantilla:
    build: ./webplantilla
-        po  rts:
+    ports:
        - 8081:8081
